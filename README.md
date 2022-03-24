@@ -2,7 +2,7 @@
 # Rubber Ducky WiFI Grab and Upload via FTP
 
 
-REM Title:         UAC, Windows Defender and WiFi Grab via FTP
+REM Title:         WiFi Grab via FTP
 
 REM Description    Will grab all WiFi passwords the device has and upload them to an ftp server defined in the payload.
 
